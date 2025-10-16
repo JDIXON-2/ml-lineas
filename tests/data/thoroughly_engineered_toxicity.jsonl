@@ -1,0 +1,3 @@
+{"conversation_id":"1","metrics":["SEVERE_TOXICITY"],"query":"Severely toxic sentence "}
+{"conversation_id":"2","metrics":["SEVERE_TOXICITY"],"query":"Super toxic sentence "}
+{"conversation_id":"3","metrics":["SEVERE_TOXICITY"],"query":"Mega toxic sentence "}

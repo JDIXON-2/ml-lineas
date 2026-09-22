@@ -66,14 +66,8 @@ select = [
 [tool.setuptools.packages.find]
 where = ["."] # list of folders that contain the packages (["."] by default)
 include = [
-  "datasets",
-  "evaluations",
-  "hooks",
-  "models",
-  "optimal_transport",
-  "scripts",
-  "utils",
   "lineas",
+  "lineas.*",
 ] # package names should match these glob patterns (["*"] by default)
 exclude = [
   "tests*",
